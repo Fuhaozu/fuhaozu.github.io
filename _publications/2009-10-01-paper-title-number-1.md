@@ -3,7 +3,7 @@ title: "Cost-benefit analysis of micro WtE incinerator applications in an urban 
 collection: publications
 category: manuscripts
 permalink: /Waste Management/2023-02-08-Cost-benefit analysis of micro WtE incinerator applications in an urban environment A case study at the Hong Kong International Airport
-excerpt: 'Investigated the financial feasibility of micro incinerators in an urban environment. Developed a cost-benefit analysis method for evaluating micro incinerator application. Compared six potential application scenarios in the context of HKIA. Conducted a comprehensive sensitivity analysis to evaluate the impact of key parameters. Provided recommendations for the investment decision of the operating company.'
+excerpt: 'Micro incinerator; Financial feasibility; Case study; Waste management'
 date: 2023-02-08
 venue: 'Waste Management'
 slidesurl: 'https://doi.org/10.1016/j.wasman.2023.01.032'
