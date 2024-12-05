@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Maritime rescue; Layout evaluation; Structural entropy weight method; HFWGHM;'
-date: 2019
+date: 2019-09-15
 venue: 'Mathematics in Practice and Theory'
 slidesurl: ''
 paperurl: ''
