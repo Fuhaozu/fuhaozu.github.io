@@ -3,8 +3,8 @@ title: "Cost-benefit analysis of micro WtE incinerator applications in an urban 
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'Investigated the financial feasibility of micro incinerators in an urban environment. Developed a cost-benefit analysis method for evaluating micro incinerator application. Compared six potential application scenarios in the context of HKIA. Conducted a comprehensive sensitivity analysis to evaluate key parameters' impact. Provided recommendations for the investment decision of the operating company.'
+date: 2023-02-08
 venue: 'Waste Management'
 slidesurl: 'https://doi.org/10.1016/j.wasman.2023.01.032'
 paperurl: 'https://doi.org/10.1016/j.wasman.2023.01.032'
