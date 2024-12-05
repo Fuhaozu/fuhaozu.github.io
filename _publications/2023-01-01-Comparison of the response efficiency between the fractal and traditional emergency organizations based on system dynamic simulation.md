@@ -2,7 +2,6 @@
 title: "Comparison of the response efficiency between the fractal and traditional emergency organizations based on system dynamic simulation"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-01-01-Comparison of the response efficiency between the fractal and traditional emergency organizations based on system dynamic simulation
 excerpt: 'System dynamic simulationResponse efficiencyEmergency organizationFractal organization'
 date: 2023-01-01
 venue: 'Sustainable Operations and Computers'
