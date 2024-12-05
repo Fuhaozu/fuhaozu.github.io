@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Research on fractal emergency organization reconstruction based on nested loop structure"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Fractal emergency, emergency response, nested loop, fractal emergency organization, case study'
+date: 2020-10-28
+venue: 'Management Review'
+slidesurl: 'http://123.57.61.11/jweb_glpl/CN/abstract/abstract1822.shtml'
+paperurl: 'http://123.57.61.11/jweb_glpl/CN/abstract/abstract1822.shtml'
+citation: 'Zhao Qiuhong Zu Fuhao, Deng Xiuquan, Xi Menghao. (2010). &quot;Research on Fractal Emergency Organization Reconstruction Based on Nested Loop Structure.&quot; <i>Management Review</i>. 32(10):293-306.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper focuses on the efficient response to emergencies. Based on the similarity between fractal system and emergency organization, this paper constructs a new type of nested loop fractal emergency organization structure and designs the response and rebuild process for it. The structure consists of fractal emergency units, which build an inter-level relationship of authorization-execution, and a relationship of collaboration-cooperation in the same level. Based on the two kinds of relationships, the fractal emergency units in this structure have clear responsibilities and powers, and the information flow among them is more accurate. The information loss during emergency response can also be effectively reduced by units' self-organization and authorization, which will improve decision-making efficiency and increase flexibility. The emergency organization structure is applied to the response to COVID-19 in China, which verifies the rationality and feasibility of it.
